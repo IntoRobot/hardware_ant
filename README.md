@@ -1,9 +1,9 @@
-# IntoRobot Fox
+# IntoRobot Ant
 
-![](/PinMapping/fox_architecture.png)
+![](/PinMapping/ant_architecture.png)
 ## 管脚描述:
 
-![](/PinMapping/fox_pinmap.png)
+![](/PinMapping/ant_pinmap.png)
 
 更多功能，请访问：[www.intorobot.com](http://www.intorobot.com)
 
